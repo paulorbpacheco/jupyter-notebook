@@ -1,6 +1,6 @@
 FROM python:3
 
-RUN apt update && apt install -y build-essential libpoppler-cpp-dev pkg-config python-dev
+RUN apt update && apt install -y build-essential libpoppler-cpp-dev pkg-config python-dev libpq-dev
 
 WORKDIR /project
 

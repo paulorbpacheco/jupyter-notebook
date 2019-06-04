@@ -26,3 +26,5 @@ tornado
 pymongo
 aiohttp
 python-magic
+SQLAlchemy
+psycopg2

@@ -1,13 +1,7 @@
-#Dev/Deployment
-coverage
-pypi-publisher
-
 # Usage
 IPython
 bs4
 lxml
-pika
-pillow
 python-magic
 PyPDF2
 urllib3
@@ -16,15 +10,8 @@ selenium
 unidecode
 requests[socks]
 pdftotext
-pyvirtualdisplay
-Flask
-Redis
-flask-restful
 pyopenssl
 python-dateutil
-tornado
-pymongo
 aiohttp
-python-magic
 SQLAlchemy
 psycopg2
